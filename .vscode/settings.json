@@ -35,9 +35,7 @@
   "workbench.colorCustomizations": {
     "focusBorder": "#1677ff",
     "sideBar.border": "#e1ff00",
-    "panel.border": "#12a0d8",
-    "list.hoverForeground": "#ffffff",
-    "list.hoverBackground": "#5d5d5d7b",
+    "panel.border": "#12a0d8"
   },
   /* ------------------------------------Editor-------------------------------------- */
   "debug.onTaskErrors": "debugAnyway",

@@ -3,7 +3,6 @@
     // antfu's extensions, ofc :P
     "antfu.iconify",
     "antfu.where-am-i",
-    "antfu.open-in-github-button",
     "antfu.goto-alias",
     "antfu.smart-clicks",
     // themes & icons
@@ -17,17 +16,12 @@
     // language
     "ms-ceintl.vscode-language-pack-zh-hans",
     // git
-    "github.vscode-github-actions",
     "mhutchie.git-graph",
     "donjayamanne.githistory",
-    "fabiospampinato.vscode-open-in-github",
     "eamodio.gitlens",
-    "github.vscode-pull-request-github",
     // common
     "formulahendry.auto-close-tag",
-    "techer.open-in-browser",
     "bierner.color-info",
-    "stackbreak.comment-divider",
     "vunguyentuan.vscode-css-variables",
     "kisstkondoros.vscode-gutter-preview",
     "xabikos.javascriptsnippets",

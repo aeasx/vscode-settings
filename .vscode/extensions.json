@@ -3,7 +3,6 @@
     // antfu's extensions, ofc :P
     "antfu.iconify",
     "antfu.where-am-i",
-    "antfu.goto-alias",
     "antfu.smart-clicks",
     // themes & icons
     "antfu.icons-carbon",
@@ -22,6 +21,7 @@
     // common
     "formulahendry.auto-close-tag",
     "bierner.color-info",
+    "naumovs.color-highlight",
     "vunguyentuan.vscode-css-variables",
     "kisstkondoros.vscode-gutter-preview",
     "xabikos.javascriptsnippets",
@@ -32,8 +32,6 @@
     "alibaba-cloud.tongyi-lingma",
     // photoShot
     "pnp.polacode",
-    // office
-    "cweijan.vscode-office",
     // Smart Import
     "wix.vscode-import-cost",
     "mikestead.dotenv",

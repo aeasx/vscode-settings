@@ -12,7 +12,7 @@
   "editor.cursorBlinking": "expand",
   "editor.mouseWheelZoom": true,
   "editor.minimap.autohide": "mouseover",
-  "editor.smoothScrolling": false,
+  "editor.smoothScrolling": true,
   "window.autoDetectColorScheme": true,
   "workbench.colorTheme": "Vitesse Dark",
   "workbench.editor.tabActionLocation": "left",

@@ -105,7 +105,6 @@
   "extensions.autoUpdate": "onlyEnabledExtensions",
   // ========== Extension configs ==========
   "emmet.showSuggestionsAsSnippets": true,
-  "emmet.triggerExpansionOnTab": false,
   "errorLens.enabledDiagnosticLevels": [
     "warning",
     "error"
@@ -232,17 +231,8 @@
       "stash": true
     }
   },
-  "i18n-ally.autoDetection": false,
-  "i18n-ally.displayLanguage": "en",
-  "i18n-ally.ignoredLocales": [],
   "iconify.annotations": true,
   "iconify.inplace": true,
-  "svg.preview.mode": "svg",
-  // I only use Prettier for manually formatting
-  "prettier.enable": false,
-  "prettier.printWidth": 200,
-  "prettier.semi": false,
-  "prettier.singleQuote": true,
   // Lingma Settings
   "Lingma.methodQuickOperation": false,
   "Lingma.cloudModelAutoTriggerGenerateLength": "disable",
